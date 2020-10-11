@@ -1,0 +1,23 @@
+2020-10-08 14:04:23.880 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Starting GoodsControllerIntegrationTest on DESKTOP-7DAJD7I with PID 14152 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 14:04:23.886 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - No active profile set, falling back to default profiles: default
+2020-10-08 14:04:28.633 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Started GoodsControllerIntegrationTest in 5.594 seconds (JVM running for 8.147)
+2020-10-08 14:04:29.762 [main] INFO  c.e.x.r.controller.ControllerExceptionHandler - methodArgumentNotValid: msg = 商品名称不能为空;
+2020-10-08 14:04:29.829 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Starting GoodsControllerTest on DESKTOP-7DAJD7I with PID 14152 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 14:04:29.830 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - No active profile set, falling back to default profiles: default
+2020-10-08 14:04:31.117 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Started GoodsControllerTest in 1.318 seconds (JVM running for 10.63)
+2020-10-08 14:04:31.308 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Starting DemoApplicationTests on DESKTOP-7DAJD7I with PID 14152 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 14:04:31.309 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2020-10-08 14:04:32.247 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Started DemoApplicationTests in 0.954 seconds (JVM running for 11.76)
+2020-10-08 14:04:58.143 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication on DESKTOP-7DAJD7I with PID 23244 (E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo\target\classes started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 14:04:58.146 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-10-08 14:04:59.762 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 1.915 seconds (JVM running for 3.116)
+2020-10-08 16:59:51.394 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Starting GoodsControllerIntegrationTest on DESKTOP-7DAJD7I with PID 11912 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 16:59:51.399 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - No active profile set, falling back to default profiles: default
+2020-10-08 16:59:55.077 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Started GoodsControllerIntegrationTest in 4.081 seconds (JVM running for 5.621)
+2020-10-08 16:59:55.815 [main] INFO  c.e.x.r.controller.ControllerExceptionHandler - methodArgumentNotValid: msg = 商品名称不能为空;
+2020-10-08 16:59:55.874 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Starting GoodsControllerTest on DESKTOP-7DAJD7I with PID 11912 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 16:59:55.874 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - No active profile set, falling back to default profiles: default
+2020-10-08 16:59:57.041 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Started GoodsControllerTest in 1.195 seconds (JVM running for 7.585)
+2020-10-08 16:59:57.144 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Starting DemoApplicationTests on DESKTOP-7DAJD7I with PID 11912 (started by DELL in E:\Generation\JAVAEE\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-08 16:59:57.144 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2020-10-08 16:59:57.982 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Started DemoApplicationTests in 0.852 seconds (JVM running for 8.526)
